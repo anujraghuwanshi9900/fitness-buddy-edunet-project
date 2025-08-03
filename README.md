@@ -6,7 +6,7 @@
 
 ---
 
-![Fitness Buddy AI](fitness_ai.jpg)
+![Fitness Buddy AI](fitness_ai.png)
 
 
 ---
